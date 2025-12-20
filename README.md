@@ -1,21 +1,21 @@
-# 🔢 Sorting Algorithm Visualizer (Python)
+# Sorting Algorithm Visualizer (Python)
 
 An interactive **Sorting Algorithm Visualizer** built using **Python, NumPy, and Matplotlib animations**.
 This project dynamically visualizes how popular sorting algorithms work step-by-step.
 
 ---
 
-## 🚀 Features
+##  Features
 
-* 🔁 Dynamic selection of sorting algorithms at runtime
-* 📊 Real-time bar chart animation using Matplotlib
-* 🧠 Algorithm logic separated from visualization
-* ⚡ Optimized Bubble Sort (early stopping)
-* 📈 Easy to extend with new algorithms
+*  Dynamic selection of sorting algorithms at runtime
+*  Real-time bar chart animation using Matplotlib
+*  Algorithm logic separated from visualization
+*  Optimized Bubble Sort (early stopping)
+*  Easy to extend with new algorithms
 
 ---
 
-## 🧮 Supported Algorithms
+##  Supported Algorithms
 
 | Algorithm      | Time Complexity | Stable | In-Place |
 | -------------- | --------------- | ------ | -------- |
@@ -25,7 +25,7 @@ This project dynamically visualizes how popular sorting algorithms work step-by-
 
 ---
 
-## 🖥️ Demo (How It Works)
+##  Demo (How It Works)
 
 1. Run the program
 2. Choose a sorting algorithm from the menu:
@@ -40,7 +40,6 @@ This project dynamically visualizes how popular sorting algorithms work step-by-
 Each bar represents an element in the array, and its height corresponds to its value.
 
 ---
-
 ## 📦 Requirements
 
 Make sure you have Python 3 installed, then install dependencies:
@@ -80,13 +79,9 @@ sorting-visualizer/
 
 ---
 
-## 📌 Resume Description
-
-> Developed an interactive sorting algorithm visualizer using Python, NumPy, and Matplotlib to demonstrate algorithm behavior through real-time animations.
-
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 * Add Merge Sort & Quick Sort
 * Color-code comparisons and swaps
@@ -96,7 +91,7 @@ sorting-visualizer/
 
 ---
 
-## 👤 Author
+##  Author
 
 **Govardhan**
 Python | Data Structures | Visualization Enthusiast
